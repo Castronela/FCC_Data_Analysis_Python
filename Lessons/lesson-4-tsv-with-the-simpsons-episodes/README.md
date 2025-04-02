@@ -13,4 +13,4 @@ Take a look at the file before you read it into a DataFrame and see what will be
 - Parse the `Air date` columns as Date.
 
 To run tests, execute `pytest tests`.
-To see `movies` DataFrame, execute `python<version> main.py`.
+To see resulting DataFrame, execute `python<version> main.py`.

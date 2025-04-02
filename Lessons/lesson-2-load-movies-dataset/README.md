@@ -11,4 +11,4 @@ Take a look at the file before you read it into a DataFrame and see what will be
 > This CSV is altered for this course and originally from Kaggle, https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
 To run tests, execute `pytest tests`.
-To see `movies` DataFrame, execute `python<version> main.py`.
+To see resulting DataFrame, execute `python<version> main.py`.

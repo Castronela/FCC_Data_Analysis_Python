@@ -13,4 +13,4 @@ This assignment will require a few extra steps. We will be using the same `movie
 > This CSV is altered for this course and originally from Kaggle, https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
 To run tests, execute `pytest tests`.
-To see `movies` DataFrame, execute `python<version> main.py`.
+To see resulting DataFrame, execute `python<version> main.py`.
